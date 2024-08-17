@@ -5,7 +5,6 @@
 >   * [KOBIS 박스오피스 데이터](https://www.kobis.or.kr/kobis/business/stat/boxs/findDailyBoxOfficeList.do)
 >   * 영화관 인스타그램 데이터 크롤링 : @cgv_korea, @megaboxon, @lottecinema_official
 >   * 네이버 영화 데이터 크롤링 
-> * [EDA 발표자료](24_2_DSL_EDA_SNS.pdf) : EDA 발표 때 사용한 ppt입니다.
 
 <br>
 
