@@ -2,8 +2,8 @@
 #### 참여자 : 한은결, 김건우, 박성원, 양주원
 #### EDA 프로젝트 자료 소개
 > * Dataset 
->   * [dataset](도시환경/dataset)
-> * [EDA 발표자료](도시환경/code)
+>   * [dataset](https://github.com/haneungyeol/12th-EDA/tree/main/%EB%8F%84%EC%8B%9C%ED%99%98%EA%B2%BD/dataset)
+> * [EDA 발표자료](https://github.com/haneungyeol/12th-EDA/tree/main/%EB%8F%84%EC%8B%9C%ED%99%98%EA%B2%BD/code)
 > * 도시환경/code : EDA 발표와 관련하여 사용된 코드입니다.
 
 <br>
