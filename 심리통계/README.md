@@ -3,9 +3,9 @@
 
 ## EDA 프로젝트 자료 소개
 > * Dataset 
->   * [dataset]()
-> * [EDA 발표자료](): 프로젝트 내용을 정리한 발표 자료입니다.
-> * [EDA 최종 코드]() : EDA 발표와 관련하여 사용된 코드입니다.
+>   * [dataset](심리통계/Dataset) : 용량의 한계로 인해 압축을 해두었습니다. 프로젝트에 사용한 데이터셋은 'https://www.kaggle.com/datasets/arslanali4343/top-personality-dataset'에서도 다운로드 받으실 수 있습니다.
+> * [EDA 발표자료]: 프로젝트 내용을 정리한 발표 자료입니다.
+> * [EDA 최종 코드]: EDA 발표와 관련하여 사용된 코드입니다.
 
 ## 🖥️ 프로젝트 소개
 심리학에서 널리 쓰이는 'Big Five' 성격 특성 이론과 Fear of Missing Out(FoMO) 경향을 활용해, 높은 입소문 효과를 가져올 수 있는 영화 장르/특성을 추출한 프로젝트입니다.
