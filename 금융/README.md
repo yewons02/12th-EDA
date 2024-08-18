@@ -66,34 +66,9 @@
 
 ---
 
-## 관련 내용 회의 및 스터디
-
-## 프로젝트 코드
-
----
-
-1. Korea Discount 실재 검증 코드
-    
-    [PER_PBR_FY1_anlaysis.ipynb](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b114675-4688-456d-bc96-d12370522413/9996c54f-980e-4799-9a78-a168fa9eee35/PER_PBR_FY1_anlaysis.ipynb)
-    
-2. Korea Discount 원인 분석 코드
-    
-    (1) 재벌더미 생성코드
-    
-    [Gen_Chaebol_Dummy.zip](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b114675-4688-456d-bc96-d12370522413/9fe49387-fcf1-4cda-bd3a-56b542abdb9c/Gen_Chaebol_Dummy.zip)
-    
-    (2) 최종데이터셋 생성 및 패널회귀 분석 코드
-    
-    [Korea_Discount_Final_Anlaysis.zip](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b114675-4688-456d-bc96-d12370522413/ee78a6b0-9a3f-4c3d-92c6-bba00e26c880/Korea_Discount_Final_Anlaysis.zip)
-    
-
----
-
 ## 프로젝트 개요, 결과 및 의의
 
 ---
-
-![Screenshot 2024-08-12 at 12.06.36 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b114675-4688-456d-bc96-d12370522413/07a575f5-db01-4101-8f16-fc48dbff4c7d/Screenshot_2024-08-12_at_12.06.36_PM.png)
 
 [24_2_DSL_EDA_금융.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b114675-4688-456d-bc96-d12370522413/27fce2c3-ef48-48c2-ba72-815f81c4d488/24_2_DSL_EDA_%E1%84%80%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%B2%E1%86%BC.pdf)
 
