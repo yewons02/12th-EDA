@@ -28,17 +28,9 @@
     
 4. 거시경제변수 데이터(통계청 및 한국은행 경제통계시스템): 국내데이터(GDP(분기별), CPI(전년동월대비), 기준금리), 해외데이터(환율)([https://kr.investing.com/currencies/usd-krw-historical-data](https://kr.investing.com/currencies/usd-jpy-historical-data))
     
-    [국내거시데이터.xlsx](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b114675-4688-456d-bc96-d12370522413/7ed4567d-e817-4e12-841a-5c3e310182a6/%E1%84%80%E1%85%AE%E1%86%A8%E1%84%82%E1%85%A2%E1%84%80%E1%85%A5%E1%84%89%E1%85%B5%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5.xlsx)
-    
 5. 공정거래위원회 상호출자제한 및 공시대상집단을 통해 생성한 재벌 더미 데이터셋(https://www.egroup.go.kr/egps/wi/stat/kap/appnSttusList.do)
     
-    [Chaebol_dummy_raw_data.zip](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b114675-4688-456d-bc96-d12370522413/46adf02e-e9b7-4c99-96cd-09761d2866e1/Chaebol_dummy_raw_data.zip)
-    
-    [Chaebol_Dummy_Result.zip](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b114675-4688-456d-bc96-d12370522413/23204807-328b-46f3-8757-da54aa749887/Chaebol_Dummy_Result.zip)
-    
 6. 북한관련 뉴스 언급량 데이터(https://www.bigkinds.or.kr/v2/depthAnalysis/interKoreaRelations.do)
-    
-    [북한뉴스언급량데이터셋.zip](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b114675-4688-456d-bc96-d12370522413/5cd2fc74-eb09-4dae-9ab3-15f63cb96f92/%E1%84%87%E1%85%AE%E1%86%A8%E1%84%92%E1%85%A1%E1%86%AB%E1%84%82%E1%85%B2%E1%84%89%E1%85%B3%E1%84%8B%E1%85%A5%E1%86%AB%E1%84%80%E1%85%B3%E1%86%B8%E1%84%85%E1%85%A3%E1%86%BC%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%E1%84%89%E1%85%A6%E1%86%BA.zip)
     
 - 데이터셋 관련: 만약 학회원 중 해당 프로젝트를 재현해보고 싶은 분들은 프로젝트 팀장에게 연락을 주시면 비공개 데이터셋을 제공하겠습니다.
 
