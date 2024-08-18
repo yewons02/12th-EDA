@@ -3,8 +3,8 @@
 #### EDA 프로젝트 자료 소개
 > * Dataset 
 >   * [dataset](https://github.com/haneungyeol/12th-EDA/tree/main/%EB%8F%84%EC%8B%9C%ED%99%98%EA%B2%BD/dataset)
-> * [EDA 발표자료](https://github.com/haneungyeol/12th-EDA/tree/main/%EB%8F%84%EC%8B%9C%ED%99%98%EA%B2%BD/code)
-> * 도시환경/code : EDA 발표와 관련하여 사용된 코드입니다.
+> * [EDA 발표자료](https://github.com/haneungyeol/12th-EDA/blob/main/%EB%8F%84%EC%8B%9C%ED%99%98%EA%B2%BD/24_2_DSL_EDA_%EB%8F%84%EC%8B%9C%ED%99%98%EA%B2%BD.pdf): EDA 발표 때 사용한 ppt입니다.
+> * [EDA 최종 코드](https://github.com/haneungyeol/12th-EDA/tree/main/%EB%8F%84%EC%8B%9C%ED%99%98%EA%B2%BD/code) : EDA 발표와 관련하여 사용된 코드입니다.
 
 <br>
 
