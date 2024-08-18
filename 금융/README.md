@@ -62,8 +62,6 @@
 
 ---
 
-[24_2_DSL_EDA_금융.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b114675-4688-456d-bc96-d12370522413/27fce2c3-ef48-48c2-ba72-815f81c4d488/24_2_DSL_EDA_%E1%84%80%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%B2%E1%86%BC.pdf)
-
 ### 개요
 
 1. 본 프로젝트는 첫 번째로 Korea Discount가 실제로 존재하는지 검증하고, 두 번째로 이에 대한 원인 분석을 개별기업 및 연도의 미관측 이질성을 통제하는 Two-Way Fixed effects 방법을 통해 분석했다.
