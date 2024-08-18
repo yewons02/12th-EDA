@@ -2,10 +2,9 @@
 성격 특성 기반 고객 타겟팅 전략 : Big5 성격 요인과 FoMO를 기반으로 한 영화 제작 접근법
 
 ## EDA 프로젝트 자료 소개
-> * Dataset 
->   * [dataset](심리통계/Dataset) : 용량의 한계로 인해 압축을 해두었습니다. 프로젝트에 사용한 데이터셋은 'https://www.kaggle.com/datasets/arslanali4343/top-personality-dataset'에서도 다운로드 받으실 수 있습니다.
-> * [EDA 발표자료]: 프로젝트 내용을 정리한 발표 자료입니다.
-> * [EDA 최종 코드]: EDA 발표와 관련하여 사용된 코드입니다.
+> * [Dataset] : 용량의 한계로 인해 압축을 해두었습니다. 프로젝트에 사용한 데이터셋은 'https://www.kaggle.com/datasets/arslanali4343/top-personality-dataset'에서도 다운로드 받으실 수 있습니다.
+> * [EDA 발표자료]: 프로젝트 내용을 정리한 PDF 발표 자료입니다.
+> * [EDA 최종 코드]: EDA 발표와 관련하여 사용된 코드입니다. 1번부터 5번까지 순차적으로 프로젝트 과정이 기록돼있습니다.
 
 ## 🖥️ 프로젝트 소개
 심리학에서 널리 쓰이는 'Big Five' 성격 특성 이론과 Fear of Missing Out(FoMO) 경향을 활용해, 높은 입소문 효과를 가져올 수 있는 영화 장르/특성을 추출한 프로젝트입니다.
