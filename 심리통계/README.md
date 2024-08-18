@@ -2,7 +2,7 @@
 성격 특성 기반 고객 타겟팅 전략 : Big5 성격 요인과 FoMO를 기반으로 한 영화 제작 접근법
 
 ## EDA 프로젝트 자료 소개
-> * [Dataset] : 용량의 한계로 인해 압축을 해두었습니다. 프로젝트에 사용한 데이터셋은 'https://www.kaggle.com/datasets/arslanali4343/top-personality-dataset'에서도 다운로드 받으실 수 있습니다.
+> * [Dataset] : 용량의 한계로 인해 압축을 해두었습니다. 프로젝트에 사용한 데이터셋은 'https://www.kaggle.com/datasets/arslanali4343/top-personality-dataset' 에서도 다운로드 받으실 수 있습니다.
 > * [EDA 발표자료]: 프로젝트 내용을 정리한 PDF 발표 자료입니다.
 > * [EDA 최종 코드]: EDA 발표와 관련하여 사용된 코드입니다. 1번부터 5번까지 순차적으로 프로젝트 과정이 기록돼있습니다.
 
